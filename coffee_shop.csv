@@ -1,0 +1,9 @@
+Date,Product,Quantity Sold,Price per Item,Total Sales,Customer Type
+2025-01-01,Espresso,15,3.50,52.50,Regular
+2025-01-01,Latte,22,4.00,88.00,New
+2025-01-02,Cappuccino,18,3.75,67.50,Regular
+2025-01-02,Americano,20,3.00,60.00,New
+2025-01-03,Cold Brew,10,4.50,45.00,Regular
+2025-01-03,Iced Latte,12,4.25,51.00,New
+2025-01-04,Espresso,14,3.50,49.00,Regular
+2025-01-04,Mocha,20,4.50,90.00,New
